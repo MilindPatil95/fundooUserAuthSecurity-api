@@ -1,4 +1,4 @@
-package com.bridgelab;
+package com.bridgelab.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

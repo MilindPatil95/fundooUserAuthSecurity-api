@@ -1,4 +1,4 @@
-package com.bridgelab;
+package com.bridgelab.config;
 
 
 import org.springframework.context.annotation.Bean;
